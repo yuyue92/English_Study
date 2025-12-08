@@ -1,3 +1,4 @@
+```
 abandon [əˈbændən] v. 放弃；抛弃；放纵
 abate [əˈbeɪt] v. 减弱；减轻
 abhor [əbˈhɔːr] v. 憎恶；厌恶
@@ -170,3 +171,4 @@ explicit [ɪkˈsplɪsɪt] adj. 明确的；直言不讳的
 exploit [ɪkˈsplɔɪt] v. 利用；剥削
 extant [ekˈstænt] adj. 现存的；尚存的
 extraneous [ɪkˈstreɪniəs] adj. 无关的；外来的
+```
